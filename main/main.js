@@ -21,7 +21,7 @@ function colorHexadecimal(){
 	return "#" + color;
 }
 
-
+// funcion para agregar valores hexadecimal a los elementos HTML tanto texto como background
 generate.addEventListener('click', function(){
 
 	let hexadecimal = document.querySelector('#hexadecimal');
