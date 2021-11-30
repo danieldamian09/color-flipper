@@ -1,3 +1,7 @@
+'use strict';
+
+let generate = document.querySelector('#generate');
+
 
 // funcion para generar cada uno de los valores que componen el sistema hexadecimal
 function valoresHexadecimal(){
@@ -17,7 +21,23 @@ function colorHexadecimal(){
 	return "#" + color;
 }
 
-console.log(colorHexadecimal());
+
+generate.addEventListener('click', function(){
+
+	let hexadecimal = document.querySelector('#hexadecimal');
+	let valorHTML = colorHexadecimal();
+	hexadecimal.innerHTML = valorHTML;
+
+	let container = document.querySelector('.container');
+	container.style.background = valorHTML;
+
+});
+
+
+
+
+
+
 
 
 
