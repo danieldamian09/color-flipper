@@ -1,11 +1,8 @@
 # color-flipper
-Este reto es para practicar las skills básicas de diseño y lógica básicas para cambiar de color de forma random y aplicarlo al background.
-
-> Breve descripción del proyecto, más o menos 15 - 20 palabras: 
 
 ## Background | Problema a solucionar
 
-Exponer brevemente el problema expuesto (> 20 palabras )
+Este reto es para practicar las skills básicas de diseño y lógica básicas para cambiar el color de forma random en un elemto del DOM y aplicarlo al background.
 
 ## Resultados y anlásis 
 
