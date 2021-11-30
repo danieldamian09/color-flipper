@@ -1,4 +1,4 @@
-# color-flipper
+# Color-Flipper
 
 ## Background | Problema a solucionar
 
