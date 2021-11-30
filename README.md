@@ -1,10 +1,6 @@
 # color-flipper
 Este reto es para practicar las skills básicas de diseño y lógica básicas para cambiar de color de forma random y aplicarlo al background.
 
-# PROJECT NAME
-
-Project_name: utilizar nombres que sean facilmente identificables para personas que puedan llegar a tener interés en ese modulo o que estén buscando algo similar.
-
 > Breve descripción del proyecto, más o menos 15 - 20 palabras: 
 
 ## Background | Problema a solucionar
